@@ -1,1 +1,2 @@
-# spoodzxs2345.github.io
+# Food Blog Website
+A sample design for a food blog website that I created using HTML and CSS
